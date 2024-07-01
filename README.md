@@ -16,8 +16,8 @@ This Python program implements the Caesar Cipher encryption and decryption algor
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <prodigy_task_2>
+   git clone https://github.com/Geethanayagiads/prodigy_intern_task_2/tree/main/prodigy_task_2
+   cd prodigy_task_2
    
 2. Install dependencies:
    pip install -r requirements.txt
